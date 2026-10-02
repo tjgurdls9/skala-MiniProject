@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Jobpill Toss-inspired logo concept">
+  <path d="M78 210c0-69 56-125 125-125h86c20 0 36 16 36 36s-16 36-36 36h-86c-29 0-53 24-53 53 0 20-16 36-36 36s-36-16-36-36Z" fill="#0B0D0C"/>
+  <path d="M434 302c0 69-56 125-125 125h-86c-20 0-36-16-36-36s16-36 36-36h86c29 0 53-24 53-53 0-20 16-36 36-36s36 16 36 36Z" fill="#0B0D0C"/>
+  <rect x="210" y="210" width="92" height="92" rx="30" fill="#38FF9C" transform="rotate(-8 256 256)"/>
+</svg>
